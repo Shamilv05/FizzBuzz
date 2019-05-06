@@ -1,5 +1,3 @@
-import sys
-
 
 def fizzbuzz(number):
     """
@@ -35,7 +33,6 @@ def fizzbuzz(number):
 
 
 def main():
-    print(sys.path)
     number = int(input())
     print(fizzbuzz(number))
 
