@@ -19,6 +19,10 @@ def test_fizzbuzz_30():
     assert(fizzbuzz(30) == "fizzbuzz")
 
 
+def test_fizzbuzz_60():
+    assert(fizzbuzz(60) == "fizzbuzz")
+
+
 def test_fizzbuzz_17():
     assert(fizzbuzz(17) == ":( 17 :(")
 
