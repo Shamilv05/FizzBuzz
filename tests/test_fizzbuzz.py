@@ -17,3 +17,11 @@ def test_fizzbuzz_15():
 
 def test_fizzbuzz_17():
     assert(fizzbuzz(17) == ":( 17 :(")
+
+
+def test_fizzbuzz_301():
+    assert(fizzbuzz(301) == "I dont work with big and negative numbers")
+
+
+def test_fizzbuzz_negative():
+    assert(fizzbuzz(-5) == "I dont work with big and negative numbers")
