@@ -1,5 +1,5 @@
 # FizzBuzz
-Implementation of FizzBuzz algorithms without using % operator
+Implementation of FizzBuzz algorithm without using % operator
 ## Getting Started
 These instructions will help you to run this programm
 ### Installing
@@ -11,7 +11,7 @@ pip install pytest
 ```
 python3 src/Fizzbuzz.py
 ```
-After that, you need to enter number
+After that, you need to enter number, which is positive and less than 300
 ## Running the test
 ```
 pytest tests/
