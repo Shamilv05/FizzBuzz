@@ -1,4 +1,4 @@
-#FizzBuzz
+# FizzBuzz
 Implementation of FizzBuzz algorithms without using % operator
 ## Getting Started
 These instructions will help you to run this programm
