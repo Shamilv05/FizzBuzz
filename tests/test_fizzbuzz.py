@@ -1,8 +1,6 @@
 import pytest
-import sys
-sys.path.insert(0, '/Users/shamilv05/Documents/FizzBuzz/FizzBuzz/src')
 
-from Fizzbuzz import fizzbuzz
+from src.Fizzbuzz import fizzbuzz
 
 
 def test_fizzbuzz_25():
