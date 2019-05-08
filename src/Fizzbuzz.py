@@ -1,8 +1,5 @@
 
 def fizzbuzz(number):
-    """
-    Write Documenatation
-    """
     if (number > 0 and number < 300):
         counterOfThree = 0
         counterOfFive = 0
