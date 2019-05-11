@@ -1,5 +1,4 @@
-# FizzBuzz
-[![Build Status](https://travis-ci.org/Shamilv05/FizzBuzz.svg?branch=master)](https://travis-ci.org/Shamilv05/FizzBuzz)
+# FizzBuzz [![Build Status](https://travis-ci.org/Shamilv05/FizzBuzz.svg?branch=master)](https://travis-ci.org/Shamilv05/FizzBuzz)
 Implementation of FizzBuzz algorithm without using % operator
 ## Getting Started
 These instructions will help you to run this programm
